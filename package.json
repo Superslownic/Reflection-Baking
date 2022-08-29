@@ -1,0 +1,13 @@
+{
+  "name": "com.superslownic.reflection-baking",
+  "version": "1.0.0",
+  "displayName": "Reflection Baking",
+  "description": "",
+  "unity": "2020.3",
+  "author":
+  {
+    "name": "Superslownic",
+    "email": "isuperslownic@gmail.com"
+  },
+  "license": "MIT"
+}
