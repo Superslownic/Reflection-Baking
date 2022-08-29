@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace Reflection.Baking
+namespace ReflectionBaking
 {
   public static class BakedTypePool
   {

@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Reflection;
 
-namespace Reflection.Baking
+namespace ReflectionBaking
 {
   public static class TypesPool
   {

@@ -1,4 +1,4 @@
-﻿namespace Reflection.Baking
+﻿namespace ReflectionBaking
 {
   public static class BakedType<T>
   {
